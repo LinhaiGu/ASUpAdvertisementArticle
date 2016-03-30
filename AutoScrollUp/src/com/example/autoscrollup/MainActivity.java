@@ -57,8 +57,9 @@ public class MainActivity extends Activity {
 								.show();
 					}
 				});
-		mMainScrollUpAdvertisementView.start();
 		mMainScrollUpAdvertisementView.setTimer(2000);
+		mMainScrollUpAdvertisementView.start();
+		
 
 	}
 
