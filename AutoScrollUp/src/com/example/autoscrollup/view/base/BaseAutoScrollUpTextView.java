@@ -137,7 +137,7 @@ public abstract class BaseAutoScrollUpTextView<T> extends ListView implements
 		} else {
 			scroll_Y = mScrollY;
 		}
-		smoothScrollBy(scroll_Y, 1000);
+		smoothScrollBy(scroll_Y, 2000);
 		setSelection(position);
 		position++;
 	}
