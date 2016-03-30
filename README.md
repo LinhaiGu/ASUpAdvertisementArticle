@@ -1,0 +1,2 @@
+# ASUpAdvertisementArticle
+仿京东首页的京东快报，自动向上滚动的广告条
